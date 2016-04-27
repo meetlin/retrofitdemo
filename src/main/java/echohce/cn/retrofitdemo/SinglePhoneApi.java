@@ -1,7 +1,5 @@
 package echohce.cn.retrofitdemo;
 
-import com.google.gson.Gson;
-
 import retrofit2.Retrofit;
 import retrofit2.adapter.rxjava.RxJavaCallAdapterFactory;
 import retrofit2.converter.gson.GsonConverterFactory;
